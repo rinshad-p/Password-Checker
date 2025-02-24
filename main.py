@@ -1,4 +1,5 @@
 # main.py
+from check_password import check_password_strength
 from colorama import init, Fore, Style
 import time
 
